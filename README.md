@@ -6,8 +6,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![](./design/Captura.png)
-![](./design/Captura2.png)
+![img 1](./design/Captura.png)
+![img 2](./design/Captura2.png)
 
 ### Links
 
