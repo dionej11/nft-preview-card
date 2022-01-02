@@ -71,7 +71,7 @@ body {
 .card__info >* {
     padding-top: 1rem;
 }
-.card__info h3 {
+.card__info h1 {
     color: var(--white);
     font-size: 1.3rem;
     font-weight: 600;
